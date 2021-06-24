@@ -1,0 +1,30 @@
+#uno
+{
+ position:absolute;
+ left:80px;
+ width:50%;
+ padding-top: 18%;
+ padding-left: 12%;
+}
+img{padding-right:12%;}
+
+#dos
+{
+    
+    position:absolute;
+    right: 80px;
+    width:50%;
+}
+
+h1
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    color:#1C1B4F;
+}
+p
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size:16px;
+    color:#707070;
+}
